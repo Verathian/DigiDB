@@ -1,2 +1,2 @@
 curr_card_version=7.0
-curr_appversion=1.0
+curr_appl_version=1.0
