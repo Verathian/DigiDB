@@ -1,2 +1,2 @@
-curr_cardfile=7.0
+curr_card_version=7.0
 curr_appversion=1.0
